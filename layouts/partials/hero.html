@@ -1,0 +1,9 @@
+{{ "<!-- BEGIN HERO PANEL -->" | safeHTML }}
+<section class="hero-panel">
+	<div class="wrapper">
+    <img src="{{ .Site.Params.hero.logo | relURL }}" alt="{{ .Site.Params.hero.logoalt }}" class="img-responsive header-img">
+		<h3>{{ .Site.Params.hero.herotitle }}</h3>
+		<p class="hero-subtitle">{{ .Site.Params.hero.herosubtitle }}</p>
+		<p>{{ .Site.Params.hero.herodescription }}</p>
+	</div>
+</section> {{ "<!-- END HERO PANEL -->" | safeHTML }}

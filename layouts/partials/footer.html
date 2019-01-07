@@ -1,0 +1,31 @@
+{{ "<!-- BEGIN FOOTER -->" | safeHTML }}
+<footer>
+<div class="wrapper row small-up-1 medium-up-3">
+
+		<div class="column">
+			<h4>{{ i18n "contact"}}</h4>
+			<hr>
+			<a>{{ .Site.Params.footer.email }}</a>
+			<br>
+			<a><span>&copy; </span>{{ .Site.Params.footer.copy }}</a>
+		</div>
+
+		<div class="column">
+			<h4>{{ i18n "links" }}</h4>
+			<hr>
+			{{ $currentNode := . }}
+			{{ range .Site.Menus.main }}
+			<a class="nav-item{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name}}</a>
+			{{end}}
+		</div>
+
+		<div class="column">
+			<a href="{{ .Site.Params.footer.footlink }}">
+				<img src="{{ .Site.Params.footer.footlogo | relURL }}" alt="{{ .Site.Params.footer.footlogoalt }}" class="img-responsive footer-img">
+			</a>
+		</div>
+
+	</div>
+</footer> {{ "<!-- END FOOTER -->" | safeHTML }}
+
+{{ template "_internal/google_analytics.html" . }}
