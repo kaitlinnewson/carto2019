@@ -5,30 +5,10 @@ McMaster Red - #7a003c
 McMaster Yellow - #ffbc3d
 McMaster Grey - #5e6a71
 McMaster Black - #1a1c1d
-
 */
 
-/* Fonts */
-
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
-/* Retrieved from http://fontpro.com/neou-font-1906 */
-@font-face {
-  font-family: 'neou';
-  src: url('../fonts/neou-thin.eot');
-  src: url('../fonts/neou-thin.eot?#iefix') format('embedded-opentype'), url('../fonts/neou-thin.woff') format('woff'), url('../fonts/neou-thin.ttf') format('truetype'), url('../fonts/neou-thin.svg#neou-thin') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'neou';
-  src: url('../fonts/neou-bold.eot');
-  src: url('../fonts/neou-bold.eot?#iefix') format('embedded-opentype'), url('../fonts/neou-bold.woff') format('woff'), url('../fonts/neou-bold.ttf') format('truetype'), url('../fonts/neou-bold.svg#neou-bold') format('svg');
-  font-weight: bold;
-  font-style: normal;
-}
-/* -- */
+@import url('https://fonts.googleapis.com/css?family=Lora');
 
 body {
 	font-family: 'Open Sans', sans-serif;
@@ -41,7 +21,7 @@ h4,
 h5,
 h6,
 .site-logo {
-	font-family: 'neou', sans-serif;
+	font-family: 'Lora', sans-serif;
 	font-weight: bold;
 }
 
