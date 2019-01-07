@@ -1,0 +1,184 @@
+
+/* Colour Palette
+
+McMaster Red - #7a003c
+McMaster Yellow - #ffbc3d
+McMaster Grey - #5e6a71
+McMaster Black - #1a1c1d
+
+*/
+
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+/* Retrieved from http://fontpro.com/neou-font-1906 */
+@font-face {
+  font-family: 'neou';
+  src: url('../fonts/neou-thin.eot');
+  src: url('../fonts/neou-thin.eot?#iefix') format('embedded-opentype'), url('../fonts/neou-thin.woff') format('woff'), url('../fonts/neou-thin.ttf') format('truetype'), url('../fonts/neou-thin.svg#neou-thin') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'neou';
+  src: url('../fonts/neou-bold.eot');
+  src: url('../fonts/neou-bold.eot?#iefix') format('embedded-opentype'), url('../fonts/neou-bold.woff') format('woff'), url('../fonts/neou-bold.ttf') format('truetype'), url('../fonts/neou-bold.svg#neou-bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/* -- */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-logo {
+	font-family: 'neou', sans-serif;
+	font-weight: bold;
+}
+
+nav > div > div > a > h3 {
+	line-height: 50px;
+	margin-bottom: 0rem;
+}
+
+.button {
+	border-radius: 5px;
+}
+
+.button.primary {
+	background-color: #5e6a71;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.button.primary:hover {
+	background-color: #005977;
+	text-decoration: underline;
+}
+
+.top-bar .wrapper {
+	max-width: 80%;
+}
+
+.nav-desktop {
+	background-color: #7a003c;
+}
+
+.menu > li > a {
+	white-space: nowrap;
+}
+
+.lang-block {
+	font-weight: bold;
+	color: #fff;
+	padding-left: 20px;
+}
+
+.alert {
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 20px;
+	border-bottom: solid 1px lightgrey;
+}
+
+@media screen and (min-width: 892px) and (max-width: 979px) {
+	.top-bar .wrapper {
+		max-width: 100%;
+	}
+}
+
+@media screen and (min-width: 640px) and (max-width: 891px) {
+	.site-logo {
+		display: none;
+	}
+	.lang-block {
+		padding-left: 0px;
+	}
+	.nav-desktop {
+		display: inherit;
+	}
+	.top-bar-right {
+		float: none;
+	}
+}
+
+.hero-panel {
+	background-image: url("../img/topography.png");
+	height: 450px;
+}
+
+.hero-panel h1 {
+	font-size: 50px;
+}
+
+.hero-panel h3 {
+	color: #5a5a59;
+}
+
+.header-img {
+	padding-bottom: 15px;
+}
+
+.main-content {
+	padding: 40px 0px;
+}
+
+.menu > li > a {
+	font-size: 16px;
+}
+
+.program .button {
+	background-color: #f1f1f1;
+	font-size: 1rem;
+	color: #000;
+	border-bottom: 4px solid transparent;
+}
+
+.program .button:hover {
+	border-bottom: 4px solid #abb2b5;
+}
+
+.program .active {
+	border-bottom: 4px solid #abb2b5;
+}
+
+.google-mymaps {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+}
+
+.google-mymaps iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+footer {
+	background-color: #7a003c;
+}
+
+footer a {
+	font-size: 0.9em;
+	color: rgba(255,255,255, 0.8);
+}
+
+footer a span {
+	color: rgba(255,255,255, 0.5);
+}
+
+.footer-img {
+	padding-top: 3px;
+}
