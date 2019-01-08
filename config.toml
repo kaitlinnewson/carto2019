@@ -36,7 +36,7 @@ defaultContentLanguageInSubdir = false
 [Languages.en.footer]
     email = "webmaster@acmla-acacc.ca"
     copy = "2019 ACMLA-ACACC"
-    footlogo = "img/mcm-library_left-col.png"
+    footlogo = "img/mcm-library_left-rev.png"
     footlogoalt = "McMaster University Library"
     footlink = "https://library.mcmaster.ca/"
 
@@ -84,7 +84,7 @@ weight = 2
     [Languages.fr.footer]
     email = "webmaster@acmla-acacc.ca"
     copy = "2019 ACMLA-ACACC"
-    footlogo = "img/mcm-library_left-col.png"
+    footlogo = "img/mcm-library_left-rev.png"
     footlogoalt = "McMaster University Library"
     footlink = "https://library.mcmaster.ca/"
 
