@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
 [Languages.en.hero]
     herotitle = ""
     herodescription = ""
-    logo = "" #img/filename.png
+    logo = "img/carto2019_logo1.png" #img/filename.png
     logoalt = ""
 
 [Languages.en.main]
@@ -36,8 +36,8 @@ defaultContentLanguageInSubdir = false
 [Languages.en.footer]
     email = "webmaster@acmla-acacc.ca"
     copy = "2019 ACMLA-ACACC"
-    footlogo = ""
-    footlogoalt = "McMaster University"
+    footlogo = "img/mcm-library_left-col.png"
+    footlogoalt = "McMaster University Library"
     footlink = "https://library.mcmaster.ca/"
 
 #[[Languages.en.menu.main]]
@@ -73,7 +73,7 @@ weight = 2
     [Languages.fr.hero]
     herotitle = ""
     herodescription = ""
-    logo = ""
+    logo = "img/carto2019_logo1.png"
     logoalt = "Carto 2019 logo"
 
     [Languages.fr.main]
@@ -84,9 +84,10 @@ weight = 2
     [Languages.fr.footer]
     email = "webmaster@acmla-acacc.ca"
     copy = "2019 ACMLA-ACACC"
-    footlogo = ""
-    footlogoalt = "McMaster University"
-    footlink = "http://www.lib.sfu.ca/"
+    footlogo = "img/mcm-library_left-col.png"
+    footlogoalt = "McMaster University Library"
+    footlink = "https://library.mcmaster.ca/"
+
 
 # [[Languages.fr.menu.main]]
 # name = "Programme"
