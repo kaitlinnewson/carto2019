@@ -59,7 +59,12 @@ defaultContentLanguageInSubdir = false
     name = "About"
     url = "/about"
     weight = 4
-
+	
+[[Languages.en.menu.main]]
+    name = "Call For Proposals"
+    url = "/callforproposals"
+    weight = 4
+	
 [Languages.fr]
 languageCode = "fr"
 languageName = "Français"
@@ -107,4 +112,9 @@ weight = 2
 [[Languages.fr.menu.main]]
 name = "À propos"
 url = "/fr/about"
+weight = 4
+
+[[Languages.fr.menu.main]]
+name = "Appel à communications"
+url = "/fr/callforproposals"
 weight = 4
