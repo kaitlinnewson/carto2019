@@ -2,6 +2,7 @@
 title = "Appel à communications"
 layout = "single-para"
 +++
+[**SOUMETTRE UN RÉSUMÉ**](https://goo.gl/forms/WORLV0t03O8r8hRk1)
 
 ***Les cartothèques sont-elles obsolètes ?***
 

@@ -2,6 +2,7 @@
 title = "Call For Proposals"
 layout = "single-para"
 +++
+[**SUBMIT A PROPOSAL**](https://goo.gl/forms/WORLV0t03O8r8hRk1)
 
 ***Are map libraries obsolete?***
 

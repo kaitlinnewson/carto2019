@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
 [Languages.en.hero]
     herotitle = "June 11-14 | McMaster University | Hamilton, ON"
     herodescription = "McMaster University will host the 53rd annual CARTO conference of the Association of Canadian Map Libraries and Archives in Hamilton, Ontario from June 11-14, 2019."
-    logo = "img/carto2019_logo1_nodate_fulltitle2.png"
+    logo = "img/carto2019_logo2_enfr.png"
     logoalt = ""
 
 [Languages.en.main]
@@ -78,7 +78,7 @@ weight = 2
     [Languages.fr.hero]
     herotitle = "11-14 juin | McMaster University | Hamilton, ON"
     herodescription = "Le 53e CARTO congrèsannuel de l’Association des cartothèques et archives cartographiques du Canada organisé par l'Université McMaster, du 11 au 14 juin 2019, à Hamilton en Ontario."
-    logo = "img/carto2019_logo1_nodate_fulltitle2.png"
+    logo = "img/carto2019_logo2_enfr.png"
     logoalt = "Carto 2019 logo"
 
     [Languages.fr.main]
