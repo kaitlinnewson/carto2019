@@ -36,6 +36,7 @@ defaultContentLanguageInSubdir = false
 [Languages.en.footer]
     email = "carto.conference@gmail.com"
     copy = "2019 ACMLA-ACACC"
+    url = "https://acmla-acacc.ca"
     footlogo = "img/mcm-library_left-rev.png"
     footlogoalt = "McMaster University Library"
     footlink = "https://library.mcmaster.ca/"
@@ -89,6 +90,7 @@ weight = 2
     [Languages.fr.footer]
     email = "carto.conference@gmail.com"
     copy = "2019 ACMLA-ACACC"
+    url = "https://acmla-acacc.ca"
     footlogo = "img/mcm-library_left-rev.png"
     footlogoalt = "McMaster University Library"
     footlink = "https://library.mcmaster.ca/"
