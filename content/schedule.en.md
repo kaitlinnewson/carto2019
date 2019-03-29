@@ -11,6 +11,142 @@ layout = "single-para"
 </div>
 <br />
 
+<a href="#tuesday-11-june">Tuesday, 11-June</a> |
+<a href="#wednesday-12-june">Wednesday, 12-June</a> |
+<a href="#thursday-13-june">Thursday, 13-June</a> |
+<a href="#friday-14-june">Friday, 14-June</a>
+
+# Tuesday, 11-June
+Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
+
+<table>
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Speaker(s)</th>
+			<th>Title</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>0830-0900</td>
+			<td>–</td>
+			<td>Registration</td>
+		</tr>
+		<tr>
+			<td>0900-1130</td>
+			<td><a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University,
+			<td><a href="../abstracts#workshop1">Hackfest</a></td>
+		</tr>
+		<tr>
+			<td>1130-1200</td>
+			<td>Audrie Schell &amp Julie Niven</td>
+			<td>Tour of McMaster University Library Preservation Lab</td>
+		</tr>	
+		<tr>
+			<td>1330-1630</td>
+			<td>
+			<td><a href="../abstracts#workshop2">Workshop: TBD</a></td>
+		</tr>
+		<tr>
+			<td>1800</td>
+			<td>–</td>
+			<td>Icebreaker: <a href="https://www.phoenixmcmaster.com/">The Phoenix CraftHouse &amp; Grill, McMaster University</a></td>
+		</tr>
+	</tbody>
+</table>
+
+# Wednesday, 12-June
+Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
+
+<table>
+	<thead>
+		<tr>
+			<th>Time</th>
+			<th>Speaker(s)</th>
+			<th>Title</th>
+		</tr>
+	</thead>
+
+	<tbody>
+		<tr>
+			<td>0830-0900</td>
+			<td>–</td>
+			<td>Registration</td>
+		</tr>
+		<tr>
+			<td>0900</td>
+			<td>Vivian Lewis, University Librarian, McMaster University</td>
+			<td>Opening Remarks &amp; Welcome</td>
+		</tr>
+		<tr>
+			<td>0915</td>
+			<td><a href="../speakers#Brackley">Chris Brackley</a>, The Firelight Group</td>
+			<td><a href="../abstracts#keynote1">Keynote Address: Indigenous Mapping in Canada</a></td>
+		</tr>
+		<tr>
+			<td>1015</td>
+			<td>–</td>
+			<td>Morning Break</td>
+		</tr>
+		<tr>
+			<td>1030</td>
+			<td colspan="2"><strong>Presentation Session 01: Supporting Digital and Spatial Humanities</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Shirk-Luckett">Quin Shirk-Luckett</a> &amp; <a href="../speakers#Lewitzky">Teresa Lewitzky</a>, University of Guelph</td>
+			<td><a href="../abstracts#pres01b">Spatial Humanities: Exploring Opportunities in the Humanities at DH@Guelph</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Yanofsky">Deena Yanofsky</a> &amp; <a href="../speakers#Cooke">Nathalie Cooke</a>, McGill University</td>
+			<td><a href="../abstracts#pres01d">Spatial tools in the humanities classroom: Tales from the frontlines of a faculty-librarian collaboration</a></td>
+		</tr>
+        <tr>
+			<td></td>
+			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
+			<td><a href="../abstracts#pres01a">Bringing Spatial Approaches into the Humanities</a></td>
+		</tr>
+		<tr>
+			<td>1200</td>
+			<td><strong>Lunch (on own)</strong></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>1300</td>
+			<td colspan="2"><strong>Presentation Session 02: Digitization,  Digital Mapping, and Historical GIS</strong></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Fortin">Marcel Fortin</a>, University of Toronto</td>
+			<td><a href="../abstracts#pres01c">HGIS Using ArcGIS Online</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Bartlett">Rebecca Bartlett</a>, Carleton University &amp; <a href="../speakers#Ford">Trevor Ford</a>, Wilfrid Laurier University</td>
+			<td><a href="../abstracts#pres02b">Vimy at 100: New Methods for Understanding and Communicating the Battle of Vimy Ridge</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a href="../speakers#Handren">Kara Handren</a>, Scholars Portal, <a href="../speakers#Simpkin">Sarah Simpkin</a>, University of Ottawa, <a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University</td>
+			<td><a href="../abstracts#pres02c">Preserving Ontario’s Past, Today: Outcomes of the OCUL Historical Topographic Map Digitization Project</a></td>
+		</tr>
+		<tr>
+			<td>1430</td>
+			<td colspan="2">Afternoon Break</td>
+		</tr>
+		<tr>
+			<td>1445</td>
+			<td><a href="../speakers#Jones">Julie Jones</a>, Simon Fraser University</td>
+			<td><a href="../abstracts#roundtable">Roundtable Discussion</a></td>
+		</tr>
+	</tbody>
+</table>
+
+
+
 <!--
 
 Format example from last year:
