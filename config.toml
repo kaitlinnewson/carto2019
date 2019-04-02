@@ -84,7 +84,7 @@ weight = 2
     [Languages.fr.hero]
     herotitle = "11-14 juin | McMaster University | Hamilton, ON"
     herodescription = "Le 53e CARTO congrèsannuel de l’Association des cartothèques et archives cartographiques du Canada organisé par l'Université McMaster, du 11 au 14 juin 2019, à Hamilton en Ontario."
-	#btnblue = "Inscription"
+	btnblue = "Inscription"
     logo = "img/carto2019_logo2_enfr.png"
     logoalt = "Carto 2019 logo"
 
