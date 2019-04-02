@@ -5,5 +5,8 @@
 		<h3>{{ .Site.Params.hero.herotitle }}</h3>
 		<p class="hero-subtitle">{{ .Site.Params.hero.herosubtitle }}</p>
 		<p>{{ .Site.Params.hero.herodescription }}</p>
+		{{ if .Site.Params.register }}
+			<a href="{{ .Site.BaseURL | relLangURL }}/register/#id=105&wid=501&cid=688" class="button primary">{{ .Site.Params.hero.btnblue }}</a>
+		{{ end }}
 	</div>
 </section> {{ "<!-- END HERO PANEL -->" | safeHTML }}

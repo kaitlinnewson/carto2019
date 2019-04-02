@@ -41,7 +41,7 @@ nav > div > div > a > h3 {
 }
 
 .button.primary:hover {
-	background-color: #005977;
+	background-color: #1a1c1d;
 	text-decoration: underline;
 }
 
@@ -95,18 +95,18 @@ nav > div > div > a > h3 {
 
 .hero-panel {
 	background-image: url("../img/topography.png");
-	height: 400px;
+	height: 450px;
 }
 
 @media (max-width: 800px) {
 	.hero-panel {
-		height: 425px;
+		height: 500px;
 	}
 }
 
 @media (max-width: 400px) {
 	.hero-panel {
-		height: 475px;
+		height: 550px;
 	}
 }
 

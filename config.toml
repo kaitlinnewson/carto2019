@@ -9,6 +9,13 @@ googleAnalytics = ""
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
+# Language-neutral parameters
+[params]
+
+    # Registration open/closed - enables the button in the hero section of the page
+    register = true
+
+# Translateable parameters
 [Languages]
 
 [Languages.en]
