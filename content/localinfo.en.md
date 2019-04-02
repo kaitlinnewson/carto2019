@@ -21,7 +21,7 @@ For information on parking locations and rates, visit [parking.mcmaster.ca](http
 **Transit**  
 Those travelling by transit can find further information at [sustainability.mcmaster.ca](http://www.mcmaster.ca/sustainability/).
 
-**Cycling**
+**Cycling**  
 [Sobi Hamilton](https://hamilton.socialbicycles.com/) is a vast, affordable, and robust bicycle sharing program that facilitates transport across the city. 
 
 ### Recreation 
