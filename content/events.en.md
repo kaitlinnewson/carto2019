@@ -11,7 +11,6 @@ layout = "single-para"
 </div>
 <br />
 
-
 | Event | Date | Time (PDT) | Location|
 |------|-------|-------|-------|
 |Pre-Conference Workshops|Tuesday, 11-June|0900-1630|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library |
@@ -24,19 +23,19 @@ layout = "single-para"
 |Conference, Day 3|Friday, 14-June|0930-1200|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library|
 |[Field Trip](#field-trip)|Friday, 12-June|1300-1700 (approx.)|Private tour of [Canadian Warplane Heritage Museum](https://www.warplane.com/) & Waterfall tour Cost: $25, including all transportation (but not lunch!).|
 
-### <a name="Banquet"></a>Banquet  
+### <a name="Banquet"></a>Banquet
 The banquet will take place at the historic [Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy). Those wishing to visit [Tiffany Falls](https://tourismhamilton.com/hamilton-waterfalls/tiffany-falls) before the event can exit Bus #5 at the 1039 Wilson stop.
 
 #### Banquet schedule
-**1830-1900:** Cocktails  
-**1900–2300:** Banquet  
+**1830-1900:** Cocktails
+**1900–2300:** Banquet
 
 #### Public transit routes and schedules
 - [From McMaster](https://goo.gl/yMfbG6); | [Return trip](https://goo.gl/hb8Umy)
 - [From Staybridge Suites](https://goo.gl/gYrZB6); | [Return trip](https://goo.gl/8vVHpX)
-  
-### <a name="field-trip"></a>Field Trip  
-Join us for the 2019 field trip! We will travel by chartered bus to the [Canadian Warplane Heritage Museum](https://www.warplane.com/) for a visit of the Museum, which includes a special behind-the-scenes tour! We'll finish the trip by visiting one or two of Hamilton's more iconic waterfalls: Webster Falls and Tews Falls. 
+
+### <a name="field-trip"></a>Field Trip
+Join us for the 2019 field trip! We will travel by chartered bus to the [Canadian Warplane Heritage Museum](https://www.warplane.com/) for a visit of the Museum, which includes a special behind-the-scenes tour! We'll finish the trip by visiting one or two of Hamilton's more iconic waterfalls: Webster Falls and Tews Falls.
 
 **Cost:** $20. Includes all transportation (but not lunch!). Field trip costs should be paid through the conference registration page.
 

@@ -3,19 +3,19 @@ title = "Accommodations"
 layout = "single-para"
 +++
 
-## On-Campus Accommodations
+### On-Campus Accommodations
 McMaster University provides a number of options for on-campus residence accommodations, ranging from private rooms with ensuite washrooms to bedroom apartments. 
 
 For more information and to book accommodations, visit [https://hotel.mcmaster.ca/affordable/](https://hotel.mcmaster.ca/affordable/).
 
-## Off-Campus Accommodations
+### Off-Campus Accommodations
 
-### Reserved Accommodations
+#### Reserved Accommodations
 A block of rooms at the Hamilton [Staybridge Suites](https://www.ihg.com/staybridge/hotels/us/en/hamilton/yhmha/hoteldetail?cm_mmc=GoogleMaps-_-SB-_-CA-_-YHMHA) has been reserved for conference attendees at a discounted price. Room bookings can be made by following [this link](https://www.staybridge.com/redirect?path=hd&brandCode=SB&localeCode=en&regionCode=1&hotelCode=YHMHA&_PMID=99801505&GPC=ACM&cn=no&viewfullsite=true), or by entering the group code **ACM** when checking availability. Conference attendees receive special Guest Room Rates ($139+tax per night). Overnight Parking is $12.50 per night. 
 
 **Bookings must be made before May 15th, 2019.** After this date, rooms will be released to the public, and rates will reset to standard prices (>$160+tax per night).
 
-### Other Off-Campus Options
+#### Other Off-Campus Options
 A number of other off-campus accommodations are available. See the table below for a list of the closest options.
 
 | Name | Price | Notes |Link to Map|

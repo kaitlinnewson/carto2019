@@ -24,11 +24,11 @@ Rebecca Bartlett is the GIS and Digital Resources Librarian at Carleton Universi
 
 ---
 ### <a name="Beck"></a>Gordon Beck
-Gord Beck is McMaster University Library’s Map Specialist. He has worked in the Lloyd Reeds Map Collection since 1997. His area of expertise is military cartography upon which topic he frequently lectures and is interviewed by the news media. Gord acted as a consultant for the CBC Radio documentary, ‘Vimy Ridge: how a Cape Breton farmer led the battle for Hill 145,’ and has appeared in the Canadian Geographic documentary, ‘Drawn to Victory,’ which tells the story of mapping and aerial photography in WWI. In 2018 he curated an exhibit of Napoleonic era maps for the McMaster Museum of Art, and most recently, he is the lead on an ongoing project to digitize WWII cartography. 
+Gord Beck is McMaster University Library’s Map Specialist. He has worked in the Lloyd Reeds Map Collection since 1997. His area of expertise is military cartography upon which topic he frequently lectures and is interviewed by the news media. Gord acted as a consultant for the CBC Radio documentary, ‘Vimy Ridge: how a Cape Breton farmer led the battle for Hill 145,’ and has appeared in the Canadian Geographic documentary, ‘Drawn to Victory,’ which tells the story of mapping and aerial photography in WWI. In 2018 he curated an exhibit of Napoleonic era maps for the McMaster Museum of Art, and most recently, he is the lead on an ongoing project to digitize WWII cartography.
 
 ---
 ### <a name="Berish"></a>Francine Berish
-Francine Berish is the Geospatial Data Librarian at Queen's Library. In addition to serving as the liaison librarian for the Geography and Planning department, she is responsible for the Library's collection of maps, geospatial data, atlases, books, air photos and Statistics Canada Data Liberation Initiative (DLI) data utilized by campus and community groups alike. 
+Francine Berish is the Geospatial Data Librarian at Queen's Library. In addition to serving as the liaison librarian for the Geography and Planning department, she is responsible for the Library's collection of maps, geospatial data, atlases, books, air photos and Statistics Canada Data Liberation Initiative (DLI) data utilized by campus and community groups alike.
 
 ---
 ### <a name="Biondo"></a>Stéfano Biondo
@@ -36,15 +36,15 @@ Détenteur d’un baccalauréat en géographie de l’UQAM et d’une maîtrise 
 
 ---
 ### <a name="Brackley"></a>Chris Brackley
-Chris Brackley is a cartographer, who has been making maps for the last twenty years. Inspired by a love of the nature, and the topographic maps that reveal the interconnection of the natural world, Chris started “improving” canoe tripping maps by manually adding historical sites, modern management areas, and whatever other information he could find in the 1990s. By the end of that decade, he had begun making maps of his own, drafting them manually with pen and ink. Eventually trained at Sir Sanford Fleming College as a digital cartographer, he started his freelance map-making company, As the Crow Flies cARTography in 2004. Since then, As the Crow Flies has made maps with a wide range of focuses and intents. They have worked with environmental organizations, making maps to educate and inspire politicians and the general public to greater protect the natural world. They have made fanciful maps to accompany books and films. And for the last eight years, Chris and As the Crow Flies have been making all of the cartographic content for the Royal Canadian Geographical Society, and their national magazine Canadian Geographic. In this role Chris has created hundreds of maps for the magazine, and a dozen Giant Floor Maps (8 x 11m), with three more currently in development. He lives in Limehouse Ontario with his wife and two children. 
+Chris Brackley is a cartographer, who has been making maps for the last twenty years. Inspired by a love of the nature, and the topographic maps that reveal the interconnection of the natural world, Chris started “improving” canoe tripping maps by manually adding historical sites, modern management areas, and whatever other information he could find in the 1990s. By the end of that decade, he had begun making maps of his own, drafting them manually with pen and ink. Eventually trained at Sir Sanford Fleming College as a digital cartographer, he started his freelance map-making company, As the Crow Flies cARTography in 2004. Since then, As the Crow Flies has made maps with a wide range of focuses and intents. They have worked with environmental organizations, making maps to educate and inspire politicians and the general public to greater protect the natural world. They have made fanciful maps to accompany books and films. And for the last eight years, Chris and As the Crow Flies have been making all of the cartographic content for the Royal Canadian Geographical Society, and their national magazine Canadian Geographic. In this role Chris has created hundreds of maps for the magazine, and a dozen Giant Floor Maps (8 x 11m), with three more currently in development. He lives in Limehouse Ontario with his wife and two children.
 
 ---
 ### <a name="Brodeur"></a>Jay Brodeur
-Jay Brodeur is the Associate Director of Digital Scholarship Services in the McMaster University Library. 
+Jay Brodeur is the Associate Director of Digital Scholarship Services in the McMaster University Library.
 
 ---
 ### <a name="Brown"></a>Julien Brown
-Julien Brown is a co-founder and the Treasurer of the Canadian Research and Mapping Association (CRMA). He also serves as a an assistant researcher and lead developer to CRMA partnership and community outreach programs. Julien works with all partners in connecting Canadians and the world to Project ’44. A background in Marketing and business operations he has worked with a number of international brands. With a keen passion for Military History Julien has been involved with army cadet movements, supported legion and veteran commemorative initiatives and projects and has worked with other historical organizations such as Vintage Wings of Canada.  
+Julien Brown is a co-founder and the Treasurer of the Canadian Research and Mapping Association (CRMA). He also serves as a an assistant researcher and lead developer to CRMA partnership and community outreach programs. Julien works with all partners in connecting Canadians and the world to Project ’44. A background in Marketing and business operations he has worked with a number of international brands. With a keen passion for Military History Julien has been involved with army cadet movements, supported legion and veteran commemorative initiatives and projects and has worked with other historical organizations such as Vintage Wings of Canada.
 
 ---
 ### <a name="Fortin"></a>Marcel Fortin
@@ -60,7 +60,7 @@ Drew Hannen is a co-founder and the Vice-President of the Canadian Research and 
 
 ---
 ### <a name="Homuth"></a>Christine Homuth
-Christine Homuth is the Spatial Information Specialist in the McMaster University Library. 
+Christine Homuth is the Spatial Information Specialist in the McMaster University Library.
 
 ---
 ### <a name="Kehler"></a>Nathan Kehler
@@ -88,7 +88,7 @@ Andrew Nicholson is the GIS & Research Data Services Coordindator at the UofT Mi
 
 ---
 ### <a name="Orlandini"></a>Rosa Orlandini
-Rosa Orlandini is the Map and GIS Librarian at York University Libraries and is a former president of ACMLA. She recently created a dataset, in collaboration with the National Centre for Truth and Reconciliation, that describes the precise location of the Indian Residential Schools in Canada. 
+Rosa Orlandini is the Map and GIS Librarian at York University Libraries and is a former president of ACMLA. She recently created a dataset, in collaboration with the National Centre for Truth and Reconciliation, that describes the precise location of the Indian Residential Schools in Canada.
 
 ---
 ### <a name="Sunstrum"></a>Sherri Sunstrum
@@ -104,8 +104,6 @@ Jean Tong (B.A, Grad. Dip TchLn (NZ), OCT, FRCGS) is the K-12 Teaching and Learn
 
 
 <!--
-
-
 
 Example format:
 
