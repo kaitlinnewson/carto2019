@@ -7,7 +7,9 @@ layout = "single-para"
 The conference will take place at the McMaster University Main Campus. A map of the campus can be found [here](https://www.mcmaster.ca/welcome/campusmap.cfm).
 
 The conference workshops and sessions will take place at the following two locations:
-* [Sherman Centre for Digital Scholarship]((https://scds.ca/), first floor, Mills Memorial Library(https://goo.gl/maps/GxozpNKJKow)
+
+* [Sherman Centre for Digital Scholarship](https://scds.ca/), first floor
+* [Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)
 
 The conference banquet will be held at the [Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy).
 
