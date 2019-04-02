@@ -11,10 +11,17 @@ layout = "single-para"
 </div>
 <br />
 ## Tuesday, 11-June
-### <a name="workshop1"></a>Description coming soon.
+### <a name="workshop1"></a>Hackfest.
+[Jay Brodeur](../speakers#Brodeur), McMaster University
 
-### <a name="workshop2"></a>Description coming soon.
+Is there a project or piece of software that you would like to explore with a group of equally interested collaborators? Are you interested in learning about or sharing new approaches and ideas? Are you just looking for some excellent company on a Tuesday morning? If you've answered 'yes' to any of these questions, join us Tuesday morning for a GIS / Maps / Geospatial data hackfest. Ideas will be solicited and shared before the conference; during the session, participants will sign up to participate in a project of their choice. Results will be presented to all participants at the conclusion of the session.
 
+---
+### <a name="workshop2"></a>Afternoon Workshop.
+
+Details coming soon.
+
+---
 ## Wednesday, 12-June
 ### <a name="Brackley"></a>Morning Keynote Address: Indigenous Peoples Atlas of Canada: Mapping Nations Without Borders.
 [Chris Brackley](../speakers#Brackley), As The Crow Flies Cartography, Royal Canadian Geographic Society
@@ -38,17 +45,17 @@ As professional Map and GIS librarians and information specialists, we play an i
 In 2017, a small collection of survey plans in the custody of Library and Archives Canada (LAC) grew exponentially when Natural Resources Canada’s Office of the Surveyor General transferred over 90,000 original survey maps and field books from the Canada Lands Survey Records (CLSR) collection. Dating as early as 1769, these underused archival records document the survey, settlement, and sustainable use of Crown Lands. In making the collection accessible, stories emerged of Canada’s Indigenous history and culture, including the distribution of language groups, treaty rights, the location of Residential Schools and Indian reserves, and Indigenous land use and occupation. In its ongoing effort to make it available to users, LAC staff have experienced challenges. Canada’s history is complicated. How do we celebrate such a significant acquisition in a way that is respectful, cooperative, and that engages in Reconciliationinitiatives? The CLSR collection is being processed, described, arranged, and made available to the public via finding aids, exhibits, publications and LAC’s online database. Among other stories that have emerged from the CLSR collection, the story of the significant Indigenous contribution to the Klondike Gold Rush stands out.
 
 ---
-### <a name="Monture"></a>Afternoon Keynote Address: Title coming soon.
-[Phil Monture](../speakers#Monture), Nativelands Ltd. & [Bryan McPherson](../speakers#McPherson), Land Active
-
-Phil & Bryan will introduce current research efforts between Six Nations and the University of Waterloo, where they are currently researching historic survey archives, pre-settlement vegetation mapping, and 3D physical models - including laser cut topographic maps.
-
----
 ### <a name="Berish"></a>Examining spatial information literacy through a decolonizing lens
 [Francine Berish](../speakers#Berish), Queen's University
 
 The Canadian Truth and Reconciliation Commission (TRC) initiated a process to expose the treatment of Indigenous peoples in Canada. Post-secondary institutions are witnessing a call for teaching practices that demonstrate respect for and appreciation of Indigenous worldviews and approaches to learning. It is within this context that libraries must explore their colonial foundations, including questioning the models of information seeking and resource selection that have become standard practice in our classrooms. This presentation will explore the preliminary results of a learning program for Queen’s librarians to discuss decolonizing the information literacy curriculum. We will share preliminary results of our learning program including how we define decolonization in relation to information literacy and the key challenges in changing our teaching practice. This presentation will include one-shot and term-length teaching examples outlining how the land ownership-centric biases of traditional cartographic materials are a great starting point for class discussions working towards decolonizing information literacy approaches.
 Session attendees will have an opportunity to discuss their own experiences decolonizing information literacy at their institutions and to discuss how libraries are engaging Indigenous communities.
+
+---
+### <a name="Monture"></a>Afternoon Keynote Address: A global solution for the Six Nations of the Grand River.
+[Phil Monture](../speakers#Monture), Nativelands Ltd., [Bryan McPherson](../speakers#McPherson), Land Active
+
+Phil & Bryan will introduce current research efforts between Six Nations and the University of Waterloo, where they are currently researching historic survey archives, pre-settlement vegetation mapping, and 3D physical models - including laser cut topographic maps.
 
 ---
 ### <a name="Sunstrum"></a>***Roundtable discussion:*** Don't Stereotype Me: Putting Prejudice on the Map
@@ -66,6 +73,7 @@ Conversation could be centered around but not limited to:
 4. Cultural differences in perspective (as a white Canadian woman, my view on the map is very different to an International student who is Muslim)
 5. Displaying controversial or sensitive material while still ensuring the library is a safe place for everyone (this has been a challenge)
 
+---
 ## Thursday, 13-June
 
 ### <a name="Kenesky"></a>Student Research taking flight with ArcGIS Online: Using StoryMaps to showcase bird populations in an undergraduate Ornithology Course
@@ -97,7 +105,7 @@ The Ottawa Resource Collection in Carleton University Library's Archives and Res
 ### <a name="Allen"></a>A new tool for neighbourhood change research: The Canadian Longitudinal Census Tract Database, 1971–2016
 [Jeff Allen](../speakers#Allen), University of Toronto
 
-Performing longitudinal analysis of socio‐economic change in small‐area spatial units such as census tracts presents several methodological complications and requires significant data preparation. Unit boundaries are revised each census year because of changes in population and delineation methodologies. This limits cross‐year comparison since data are not representative of the same spatial units. To address these problems, we have developed an innovative procedure to reduce error when comparing tract‐level data across census years by apportioning data to the same areal units. Our procedure is a combination of map‐matching techniques, dasymetric overlays, and population‐weighted areal interpolation. The output is a set of tables with apportionment weights pertaining to pairs of unique boundary identifiers across census years. These can be linked with census data or other data with census identifiers that require longitudinal comparison. These are made freely available for the research community: [https://doi.org/10.5683/SP/EUG3DT](https://doi.org/10.5683/SP/EUG3DT).
+Performing longitudinal analysis of socio-economic change in small-area spatial units such as census tracts presents several methodological complications and requires significant data preparation. Unit boundaries are revised each census year because of changes in population and delineation methodologies. This limits cross-year comparison since data are not representative of the same spatial units. To address these problems, we have developed an innovative procedure to reduce error when comparing tract-level data across census years by apportioning data to the same areal units. Our procedure is a combination of map-matching techniques, dasymetric overlays, and population-weighted areal interpolation. The output is a set of tables with apportionment weights pertaining to pairs of unique boundary identifiers across census years. These can be linked with census data or other data with census identifiers that require longitudinal comparison. These are made freely available for the research community: [https://doi.org/10.5683/SP/EUG3DT](https://doi.org/10.5683/SP/EUG3DT).
 
 ---
 ### <a name="Fortin"></a>A modern carto-bibliography of the Lake Nipissing area
@@ -129,6 +137,7 @@ Over the past two years, staff at Scholars Portal have been working to automate 
 
 Funded by CANARIE and in coordination with Research Data Canada, this collaborative project aims to provide an easy-to-use interface to enhance searching and discovering Canadian research data. A web map — familiar to anyone who has used Google Maps —  will enable users to navigate to areas where they wish to find data. This method of prioritizing geography in search results can display data in a new context, and can help link data sets where such discovery was in the past not easily possible. In addition to the search and discovery enhancements, the project will enrich geospatial research data for better integration and machine readability with geographic information systems (GIS) software. The new developments take advantage of several existing open-source software components with an estimated completion data of spring 2020. Collaborators on the project include University of Toronto, McMaster University, Compute Canada, Portage Network, and UBC’s Advanced Research Computing.
 
+---
 ## Friday, 14-June
 
 ### <a name="Kehler"></a>Morning Keynote Address: Citizen-science GIS: Project 44, mapping the First Canadian Army through 87 days of combat.
@@ -141,15 +150,13 @@ Through this work, the CRMA aims is to stimulate a discussion around digitizatio
 
 ---
 ### <a name="Homuth"></a>Expanding the Library's Map Collection through digitization and collaboration. 
-[Christine Homuth](../speakers#Homuth), [Jay Brodeur](../speakers#Brodeur), McMaster University, & [Kara Handren](../speakers#Handren), Scholars Portal
+[Christine Homuth](../speakers#Homuth) & [Jay Brodeur](../speakers#Brodeur), McMaster University, [Kara Handren](../speakers#Handren), Scholars Portal
 
-In a time of shrinking acquisitions budgets, how can map libraries expand their collections, reach new users, and expand their value proposition? As a follow up to a [presentation](https://osf.io/x4r3e/) delivered at Carto 2017, we'll explore some of the collaborative projects that McMaster University Library has undertaken with the broader Ontario and Canadian map library communities. Among these initiatives is the University of Alberta Libraries -- McMaster University Library collaboration to digitize, georefernce, and make publicly available close to 5000 WWII topographic maps of Europe from the [William C. Wonders Map Collection](https://guides.library.ualberta.ca/geospatial-data-maps). We will also tell the story of how many institutions and organizations worked together to make publicly available a collection of [WWII Defence Overprint Maps](http://geo2.scholarsportal.info/#r/search/_queries@=second%20world%20war;&fields@=;&sort=relevance&limit=entitled) in a variety of formats through a collection of platforms. Using these examples as a framework, we'll explore the various ways that the Canadian map library community could collaborate to expand the discovery, accessibility, and value of its important collections.
+In a time of stagnating and shrinking acquisitions budgets, how can map libraries expand their collections, reach new users, and expand their value proposition? As a follow up to a [presentation](https://osf.io/x4r3e/) delivered at Carto 2017, we'll explore some of the collaborative projects that McMaster University Library has undertaken with the broader Ontario and Canadian map library communities. Among these initiatives is the University of Alberta Libraries -- McMaster University Library collaboration to digitize, georefernce, and make publicly available close to 5000 WWII topographic maps of Europe from the [William C. Wonders Map Collection](https://guides.library.ualberta.ca/geospatial-data-maps). We will also tell the story of how many institutions and organizations worked together to make publicly available a collection of [WWII Defence Overprint Maps](http://geo2.scholarsportal.info/#r/search/_queries@=second%20world%20war;&fields@=;&sort=relevance&limit=entitled) in a variety of formats through a collection of platforms. Using these examples as a framework, we'll explore the various ways that the Canadian map library community could collaborate to expand the discovery, accessibility, and value of its important collections.
 
 ---
 ### <a name="Beck"></a>WWII on Land, Sea & Air Charts: The demand and challenge for Cartography (1942-1945)
 [Gord Beck](../speakers#Beck), McMaster University
 
 The demand for mapping in WWII initiated the largest cartographic undertaking the world had ever seen, resulting in a combined Allied Forces output of close to half a billion maps between 1942 and the end of 1945. The maps ranged from the detailed 1:12,500 scale topographic sheets, codenamed ‘Benson,’ for Operation Overlord to geologic maps for the siting of temporary airfields, supply depots, and cross-country transportation routes for tanks and heavy vehicles. They also included hydrographic charts and cross-sectional profiles of the English Channel floor opposite the D-Day landing beaches, and aeronautical lattice charts for the newly invented ‘Gee’ radio-navigation system used on bomber missions. This presentation will explore the breadth and depth of mapping undertaken during the war, as well as the challenges encountered and solutions found for problems related to survey and other aspects of data collection and compilation. It will conclude with the lasting legacy these cartographic endeavours have had on our modern systems of mapping and navigation.
-
-
 
