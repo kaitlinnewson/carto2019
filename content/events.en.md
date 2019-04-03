@@ -1,5 +1,5 @@
 +++
-title = "Program"
+title = "Events"
 layout = "single-para"
 +++
 
@@ -11,7 +11,7 @@ layout = "single-para"
 </div>
 <br />
 
-| Event | Date | Time (PDT) | Location|
+| Event | Date | Time (EDT) | Location|
 |------|-------|-------|-------|
 |Pre-Conference Workshops|Tuesday, 11-June|0900-1630|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library |
 |Ice Breaker|Tuesday, 11-June|1800 (approx.)|[The Phoenix CraftHouse & Grill, McMaster University](https://www.phoenixmcmaster.com/)|
@@ -21,7 +21,7 @@ layout = "single-para"
 |ACMLA AGM|Thursday, 13-June|1200-1400|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
 |[Banquet](#Banquet)|Thursday, 13-June|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
 |Conference, Day 3|Friday, 14-June|0930-1200|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library|
-|[Field Trip](#field-trip)|Friday, 12-June|1300-1700 (approx.)|Private tour of [Canadian Warplane Heritage Museum](https://www.warplane.com/) & Waterfall tour Cost: $25, including all transportation (but not lunch!).|
+|[Field Trip](#field-trip)|Friday, 14-June|1300-1700 (approx.)|Private tour of [Canadian Warplane Heritage Museum](https://www.warplane.com/) & Waterfall tour Cost: $25, including all transportation (but not lunch!).|
 
 ### <a name="Banquet"></a>Banquet
 The banquet will take place at the historic [Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy). Those wishing to visit [Tiffany Falls](https://tourismhamilton.com/hamilton-waterfalls/tiffany-falls) before the event can exit Bus #5 at the 1039 Wilson stop.

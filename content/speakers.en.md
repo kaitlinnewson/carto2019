@@ -1,5 +1,5 @@
 +++
-title = "Program"
+title = "Speakers"
 layout = "single-para"
 +++
 
