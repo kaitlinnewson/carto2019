@@ -1,0 +1,143 @@
+baseurl = "https://acmla-acacc.ca/carto2019/"
+#baseurl = "http://localhost/carto2019/public/"
+author = "ACMLA-ACACC"
+title = "Carto 2019"
+theme = "hugof"
+enableRobotsTXT = true
+SectionPagesMenu = ["main"]
+googleAnalytics = ""
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+# Language-neutral parameters
+[params]
+
+    # Registration open/closed - enables the button in the hero section of the page
+    register = true
+
+# Translateable parameters
+[Languages]
+
+[Languages.en]
+    languageCode = "en-us"
+    languageName = "English"
+    weight = 1
+
+[Languages.en.params]
+
+[Languages.en.meta]
+    description = "The 53rd Annual Conference of the Association of Canadian Map Libraries and Archives (ACMLA)"
+    keywords = "libraries, archives, maps, cartography, data"
+
+[Languages.en.hero]
+    herotitle = "June 11-14 | McMaster University | Hamilton, ON"
+    herodescription = "McMaster University will host the 53rd annual CARTO conference of the Association of Canadian Map Libraries and Archives in Hamilton, Ontario from June 11-14, 2019."
+	btnblue = "Register"
+    logo = "img/carto2019_logo2_enfr.png"
+    logoalt = ""
+
+[Languages.en.main]
+    contentOneAlert = ""
+    contentOneTitle = "Cartographic Crossroads"
+    contentOneBody = "<br>***Are Map Libraries Obsolete?*** <br><br> In her 1970 ACMLA conference paper by this title, Association member and McMaster University Map Librarian Kate Donkin foretold the rise of geospatial data and pondered the future of static maps--and the libraries containing them--in a digital environment. Nearly half a century later, many of Ms. Donkin’s predictions have been validated: the confluence of broadly-available geospatial data, large-scale digitization projects, and the maturation of user-friendly software for analysis and map visualization have ushered in what may be referred to as an *'age of accessible cartography'*. <br><br> However, map libraries have not become obsolete during the rise to prominence of geospatial data. Rather, map collections, their spaces, and the professionals working within them have evolved in diverse ways to meet the changing needs of researchers, students, government, and the public. <br><br> As we approach the 50th anniversary of such a provocative question, the community has an opportunity to reflect on it, and perhaps, ask it again. How have the roles of maps, map-related professionals, and the map library been transformed in the age of accessible cartography? How are map libraries adding value to modern-day scholarship? How might their role evolve over the next 50 years?<br><br>[**Register Now!**](register/#id%3D105%26wid%3D501%26cid%3D688)"
+
+[Languages.en.footer]
+    email = "carto.conference@gmail.com"
+    copy = "2019 ACMLA-ACACC"
+    url = "https://acmla-acacc.ca"
+    footlogo = "img/mcm-library_left-rev.png"
+    footlogoalt = "McMaster University Library"
+    footlink = "https://library.mcmaster.ca/"
+
+[[Languages.en.menu.main]]
+    name = "Program"
+    url = "/schedule"
+    weight = 1
+
+[[Languages.en.menu.main]]
+    name = "Local Information"
+    url = "/localinfo"
+    weight = 2
+
+[[Languages.en.menu.main]]
+    name = "Accommodations"
+    url = "/accommodations"
+    weight = 3
+
+#[[Languages.en.menu.main]]
+#    name = "Call For Proposals"
+#    url = "/callforproposals"
+#    weight = 3
+[[Languages.en.menu.main]]
+name = "Register"
+url = "/register/#id%3D105%26wid%3D501%26cid%3D688"
+weight = 4
+
+[[Languages.en.menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 5
+
+[Languages.fr]
+languageCode = "fr"
+languageName = "Français"
+weight = 2
+
+[Languages.fr.params]
+
+    [Languages.fr.meta]
+    description = "53e colloque annuel de l’Association des cartothèques et archives cartographiques du Canada (ACACC)."
+
+    [Languages.fr.hero]
+    herotitle = "11-14 juin | McMaster University | Hamilton, ON"
+    herodescription = "Le 53e CARTO congrèsannuel de l’Association des cartothèques et archives cartographiques du Canada organisé par l'Université McMaster, du 11 au 14 juin 2019, à Hamilton en Ontario."
+	btnblue = "Inscription"
+    logo = "img/carto2019_logo2_enfr.png"
+    logoalt = "Carto 2019 logo"
+
+    [Languages.fr.main]
+    contentOneAlert = ""
+    contentOneTitle = "A la croiseé des chemins"
+    contentOneBody = "<br>***Les cartothèques sont-elles obsolètes ?*** <br><br>Dans son article intitulé ainsi pour la conférence de l’ACACC en 1970, Kate Donkin, membre de l’Association et bibliothécaire cartographique de l’Université McMaster, prédit la croissance des données géospatiales et l'avenir des cartes statiques - et des bibliothèques qui les contiennent - dans un environnement numérique. Près d'un demi-siècle plus tard, de nombreuses prédictions de Mme Donkin ont été validées : la convergence de la disponibilité des données géospatiales, des projets de numérisation à grande échelle, et de la maturation de logiciels conviviaux pour l'analyse et la visualisation de cartes, a inauguré ce que l’on pourrait appeler « l’ère de la cartographie accessible. » <br> <br> Il est intéressant de noter cependant que l’implication suggérée par la question centrale du document ne s’est pas matérialisée: les cartothèques ne sont pas devenues obsolètes avec la montée en puissance des données géospatiales. Les collections de cartes, leurs espaces, et les professionnels qui y travaillent ont tous évolués de différentes façons pour répondre aux besoins changeants des chercheurs, des étudiants, des gouvernements, et du public.<br> <br> À l’approche du 50e anniversaire de cette question si provocante, la communauté a l’occasion de réfléchir et peut-être de la poser à nouveau. Comment les rôles des cartes, des professionnels liés aux cartes et de la cartothèque ont-ils été transformés à l'ère de la cartographie accessible ? Comment les cartothèques ajoutent-elles de la valeur à l’érudition moderne ? Comment leur rôle pourrait-il évoluer dans les 50 prochaines années ?<br><br>[**Inscrire maintenant !**](register/#id%3D105%26wid%3D501%26cid%3D688)"
+
+    [Languages.fr.footer]
+    email = "carto.conference@gmail.com"
+    copy = "2019 ACMLA-ACACC"
+    url = "https://acmla-acacc.ca"
+    footlogo = "img/mcm-library_left-rev.png"
+    footlogoalt = "McMaster University Library"
+    footlink = "https://library.mcmaster.ca/"
+
+
+[[Languages.fr.menu.main]]
+name = "Programme"
+url = "/fr/schedule"
+#url = "/schedule"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "Lieu"
+url = "/fr/localinfo"
+#url = "/localinfo"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Hébergement"
+url = "/fr/accommodations"
+#url = "/accommodations"
+weight = 3
+
+#[[Languages.fr.menu.main]]
+#name = "Appel à communications"
+#url = "/fr/callforproposals"
+#weight = 3
+
+[[Languages.fr.menu.main]]
+name = "Inscription"
+url = "/fr/register/#id%3D105%26wid%3D501%26cid%3D688"
+weight = 4
+
+[[Languages.fr.menu.main]]
+name = "À propos"
+url = "/fr/about"
+weight = 5
