@@ -12,7 +12,7 @@ layout = "single-para"
 <br />
 
 ### Tuesday, 11-June
-#### <a name="workshop1"></a>Hackfest.
+#### <a name="workshop1"></a>Hackfest
 [Jay Brodeur](../speakers#Brodeur), McMaster University
 
 Is there a project or piece of software that you would like to explore with a group of equally interested collaborators? Are you interested in learning about or sharing new approaches and ideas? Are you just looking for some excellent company on a Tuesday morning? If you've answered 'yes' to any of these questions, join us Tuesday morning for a GIS / Maps / Geospatial data hackfest. Ideas will be solicited and shared before the conference; during the session, participants will sign up to participate in a project of their choice. Results will be presented to all participants at the conclusion of the session.
@@ -24,7 +24,7 @@ Details coming soon.
 
 ---
 ### Wednesday, 12-June
-#### <a name="Brackley"></a>Morning Keynote Address: Indigenous Peoples Atlas of Canada: Mapping Nations Without Borders.
+#### <a name="Brackley"></a>Morning Keynote Address: Indigenous Peoples Atlas of Canada: Mapping Nations Without Borders
 [Chris Brackley](../speakers#Brackley), As The Crow Flies Cartography, Royal Canadian Geographic Society
 
 At a time when the Canada’s stated relationship with Indigenous Peoples is described as “Nation to Nation”, two questions quickly arise. What are the nations that is Canada building relationships with; and where exactly are these nations? A good place to look for answers to these questions is in map drawers and spatial data warehouses. The language that defines national existence has long been cartography. Drawing border lines on a map creates a bounding box for a collective national identity, allowing a nation to say “inside these lines is where we live”. And of course, bounding a nation on a map asserts the nation's possession of the land, saying “these lands are ours”.
@@ -53,7 +53,7 @@ The Canadian Truth and Reconciliation Commission (TRC) initiated a process to ex
 Session attendees will have an opportunity to discuss their own experiences decolonizing information literacy at their institutions and to discuss how libraries are engaging Indigenous communities.
 
 ---
-#### <a name="Monture"></a>Afternoon Keynote Address: A global solution for the Six Nations of the Grand River.
+#### <a name="Monture"></a>Afternoon Keynote Address: A global solution for the Six Nations of the Grand River
 [Phil Monture](../speakers#Monture), Nativelands Ltd., [Bryan McPherson](../speakers#McPherson), Land Active
 
 Phil & Bryan will introduce current research efforts between Six Nations and the University of Waterloo, where they are currently researching historic survey archives, pre-settlement vegetation mapping, and 3D physical models - including laser cut topographic maps.
@@ -141,7 +141,7 @@ Funded by CANARIE and in coordination with Research Data Canada, this collaborat
 ---
 ### Friday, 14-June
 
-#### <a name="Kehler"></a>Morning Keynote Address: Citizen-science GIS: Project 44, mapping the First Canadian Army through 87 days of combat.
+#### <a name="Kehler"></a>Morning Keynote Address: Citizen-science GIS: Project 44, mapping the First Canadian Army through 87 days of combat
 [Nathan Kehler](../speakers#Kehler), [Drew Hannen](../speakers#Hannen), &  [Julien Brown](../speakers#Brown), Canadian Research and Mapping Association (CRMA)
 
 Project ’44, led by the Canadian Research and Mapping Association (CRMA), is an online commemoration project launched in the spring of 2019, to mark the the 75th anniversary of the D-Day landings. It aims to develop a publicly accessible web-based map, that displays all the major units that fought in the Battle of Normandy (June 6 – August 30 1944). Focusing on the First Canadian Army, the web map tracks the daily positions of battalion to army-level units of the First Canadian Army, as well as daily position of the Allied and German units at the division to army-group level.
@@ -151,7 +151,7 @@ In addition, over 65 war diaries from Canadian units have been retrieved, digiti
 Through this work, the CRMA aims is to stimulate a discussion around digitization of military history with the goal of building capacity in military museums, and enable such information to be made more readily accessible to Canadians.
 
 ---
-#### <a name="Homuth"></a>Expanding the Library's Map Collection through digitization and collaboration. 
+#### <a name="Homuth"></a>Expanding the Library's Map Collection through digitization and collaboration
 [Christine Homuth](../speakers#Homuth) & [Jay Brodeur](../speakers#Brodeur), McMaster University, [Kara Handren](../speakers#Handren), Scholars Portal
 
 In a time of stagnating and shrinking acquisitions budgets, how can map libraries expand their collections, reach new users, and expand their value proposition? As a follow up to a [presentation](https://osf.io/x4r3e/) delivered at Carto 2017, we'll explore some of the collaborative projects that McMaster University Library has undertaken with the broader Ontario and Canadian map library communities. Among these initiatives is the University of Alberta Libraries -- McMaster University Library collaboration to digitize, georefernce, and make publicly available close to 5000 WWII topographic maps of Europe from the [William C. Wonders Map Collection](https://guides.library.ualberta.ca/geospatial-data-maps). We will also tell the story of how many institutions and organizations worked together to make publicly available a collection of [WWII Defence Overprint Maps](http://geo2.scholarsportal.info/#r/search/_queries@=second%20world%20war;&fields@=;&sort=relevance&limit=entitled) in a variety of formats through a collection of platforms. Using these examples as a framework, we'll explore the various ways that the Canadian map library community could collaborate to expand the discovery, accessibility, and value of its important collections.
