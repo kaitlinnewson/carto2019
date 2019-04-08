@@ -115,7 +115,7 @@ Performing longitudinal analysis of socio-economic change in small-area spatial 
 Using modern and web-based tools, this project examines the cartographic evolution of the Lake Nipissing area. The presentation will also discuss new potential for rediscovering the lost art of compiling a carto-bibliography.
 
 ---
-#### <a name="Biondo"></a>Geoindex, Plateforme partagée de données géosptiales des université Québécoises
+#### <a name="Biondo"></a>Géoindex, Plateforme partagée de données géospatiales des université Québécoises
 [Stéfano Biondo](../speakers#Biondo), Université Laval
 
 Géoindex: plateforme partagée de données géospatiales des universités québécoises 
