@@ -218,7 +218,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		<tr>
 			<td></td>
 			<td><a href="../speakers#Biondo">Stéfano Biondo</a>, Université Laval</td>
-			<td><a href="../abstracts#Biondo">Geoindex, Plateforme partagée de données géosptiales des université Québécoises</a></td>
+			<td><a href="../abstracts#Biondo">Géoindex, Plateforme partagée de données géospatiales des université Québécoises</a></td>
 		</tr>
 		<tr>
 			<td></td>
