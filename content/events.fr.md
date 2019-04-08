@@ -21,7 +21,7 @@ layout = "single-para"
 |ACMLA AGM|Jeudi 13 juin|1200-1400|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
 |[Banquet](#Banquet)|Jeudi 13 juin|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
 |Conférence, troisième journée|Vendredi 14 juin|0930-1200|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library|
-|[Field Trip](#field-trip)|Vendredi 14 juin|1300-1700 (approx.)|Visite privée du [Canadian Warplane Heritage Museum](https://www.warplane.com/) & et visite aux chutes d'eau de Hamilton. 25$, transport compris (mais pas le dîner!).|
+|[Field Trip](#field-trip)|Vendredi 14 juin|1300-1700 (approx.)|Visite privée du [Canadian Warplane Heritage Museum](https://www.warplane.com/) & et visite aux chutes d'eau de Hamilton. 20$, transport compris (mais pas le dîner!).|
 
 ### <a name="Banquet"></a>Banquet
 Le banquet de la conférence aura lieu au restaurant [Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy). Ceux qui souhaitent visiter les [chutes Tiffany](https://tourismhamilton.com/hamilton-waterfalls/tiffany-falls) avant l’événement peuvent prendre le bus 5 à l’arrêt 1039 Wilson.
