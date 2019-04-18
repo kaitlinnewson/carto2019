@@ -35,7 +35,7 @@ Le banquet de la conférence aura lieu au restaurant [Ancaster Mill](https://goo
 - [de Staybridge Suites](https://goo.gl/gYrZB6); | [voyage de retour](https://goo.gl/8vVHpX)
 
 ### <a name="field-trip"></a>Field Trip
-Rejoignez-nous pour l’excursion de 2019! Nous nous rendrons en autobus nolisé au [Canadian Warplane Heritage Museum](https://www.warplane.com/) pour une visite du musée, qui comprend une visite spéciale dans les coulisses! Nous terminerons notre voyage en visitant une ou deux des cascades les plus emblématiques de Hamilton: chutes Webster et Tews.
+Rejoignez-nous pour l’excursion de 2019! Nous nous rendrons en autobus nolisé au [Canadian Warplane Heritage Museum](https://www.warplane.com/) pour une visite du musée, qui comprend une visite spéciale dans les coulisses et un [exposition de réalité virtuelle](https://www.warplane.com/events/upcoming-events/event-details.aspx?eventId=133)! Nous terminerons notre voyage en visitant une ou deux des cascades les plus emblématiques de Hamilton: chutes Webster et Tews.
 
 **Cout:** $20. Comprend tout le transport (mais pas le dîner!). Les coûts doivent être payés via la page d'inscription à la conférence.
 

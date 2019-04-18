@@ -82,7 +82,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>0915</td>
-			<td><a href="../speakers#Brackley">Chris Brackley</a>, As The Crow Flies Cartography, Royal Canadian Geographic Society</td>
+			<td><a href="../speakers#Brackley">Chris Brackley</a>, As The Crow Flies cARTography, Royal Canadian Geographical Society</td>
 			<td><a href="../abstracts#Brackley">Morning Keynote: Indigenous Peoples Atlas of Canada: Mapping Nations Without Borders.</a></td>
 		</tr>
 		<tr>
@@ -105,7 +105,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		<tr>
 			<td></td>
 			<td><a href="../speakers#McFall">Roddy McFall</a>, Library and Archives Canada</td>
-			<td><a href="../abstracts#McFall">Bringing Memory studies and the Canada Land Survey Records: Telling untold stories</a></td>
+			<td><a href="../abstracts#McFall">Memory studies and the Canada Land Survey Records: Telling untold stories</a></td>
 		</tr>
 		<tr>
 			<td></td>

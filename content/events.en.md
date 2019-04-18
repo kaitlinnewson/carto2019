@@ -35,7 +35,7 @@ The banquet will take place at the historic [Ancaster Mill](https://goo.gl/maps/
 - [From Staybridge Suites](https://goo.gl/gYrZB6); | [Return trip](https://goo.gl/8vVHpX)
 
 ### <a name="field-trip"></a>Field Trip
-Join us for the 2019 field trip! We will travel by chartered bus to the [Canadian Warplane Heritage Museum](https://www.warplane.com/) for a visit of the Museum, which includes a special behind-the-scenes tour! We'll finish the trip by visiting one or two of Hamilton's more iconic waterfalls: Webster Falls and Tews Falls.
+Join us for the 2019 field trip! We will travel by chartered bus to the [Canadian Warplane Heritage Museum](https://www.warplane.com/) for a visit of the Museum, which includes a special behind-the-scenes tour and a [virtual reality exhibit](https://www.warplane.com/events/upcoming-events/event-details.aspx?eventId=133)! We'll finish the trip by visiting one or two of Hamilton's more iconic waterfalls: Webster Falls and Tews Falls.
 
 **Cost:** $20. Includes all transportation (but not lunch!). Field trip costs should be paid through the conference registration page.
 

@@ -25,7 +25,7 @@ Details coming soon.
 ---
 ### Wednesday, 12-June
 #### <a name="Brackley"></a>Morning Keynote Address: Indigenous Peoples Atlas of Canada: Mapping Nations Without Borders
-[Chris Brackley](../speakers#Brackley), As The Crow Flies Cartography, Royal Canadian Geographic Society
+[Chris Brackley](../speakers#Brackley), As The Crow Flies cARTography, Royal Canadian Geographical Society
 
 At a time when the Canada’s stated relationship with Indigenous Peoples is described as “Nation to Nation”, two questions quickly arise. What are the nations that is Canada building relationships with; and where exactly are these nations? A good place to look for answers to these questions is in map drawers and spatial data warehouses. The language that defines national existence has long been cartography. Drawing border lines on a map creates a bounding box for a collective national identity, allowing a nation to say “inside these lines is where we live”. And of course, bounding a nation on a map asserts the nation's possession of the land, saying “these lands are ours”.
 
@@ -40,7 +40,7 @@ Chris’ keynote talk will explore how he faced and overcame these challenges. W
 As professional Map and GIS librarians and information specialists, we play an integral role in ensuring that print and digital cartographic information are collected, described and preserved for future generations of researchers and educators. In addition, many governmental departments and post-secondary institutions libraries have goals to increase Indigenous content in our collections and improve access to these resources. This poses a challenge for our community, as cartographic content that reflect Indigenous perspectives is hidden in our collections, and are hard to find on the internet. This presentation will discuss the challenges of an initiative at York University Libraries to develop a collection of print and scanned cartographic resources.
 
 ---
-#### <a name="McFall"></a>Bringing Memory studies and the Canada Land Survey Records: Telling untold stories
+#### <a name="McFall"></a>Memory studies and the Canada Land Survey Records: Telling untold stories
 [Roddy McFall](../speakers#McFall), Library and Archives Canada
 
 In 2017, a small collection of survey plans in the custody of Library and Archives Canada (LAC) grew exponentially when Natural Resources Canada’s Office of the Surveyor General transferred over 90,000 original survey maps and field books from the Canada Lands Survey Records (CLSR) collection. Dating as early as 1769, these underused archival records document the survey, settlement, and sustainable use of Crown Lands. In making the collection accessible, stories emerged of Canada’s Indigenous history and culture, including the distribution of language groups, treaty rights, the location of Residential Schools and Indian reserves, and Indigenous land use and occupation. In its ongoing effort to make it available to users, LAC staff have experienced challenges. Canada’s history is complicated. How do we celebrate such a significant acquisition in a way that is respectful, cooperative, and that engages in Reconciliationinitiatives? The CLSR collection is being processed, described, arranged, and made available to the public via finding aids, exhibits, publications and LAC’s online database. Among other stories that have emerged from the CLSR collection, the story of the significant Indigenous contribution to the Klondike Gold Rush stands out.
