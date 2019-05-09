@@ -34,5 +34,9 @@ Transport en commun Visitez [sustainability.mcmaster.ca](http://www.mcmaster.ca/
 **Sentiers**  
 Hamilton possède un vaste réseau d’itinéraires cyclistes et de sentiers récréatifs. Visitez le site [Nature@McMaster](https://nature.mcmaster.ca/) ou [Hamilton Cycling Routes & Maps page](https://www.hamilton.ca/streets-transportation/biking-cyclists/cycling-routes-maps) pour plus d’informations.
 
+**Cascades**  
+Construite autour et au sommet de l'escarpement du Niagara, Hamilton a la réputation d'être la ville des cascades. Trouvez plus d'informations sur [Tourism Hamilton](https://tourismhamilton.com/hamilton-waterfalls) ou consultez la carte complète [Cascades et chutes de Hamilton] http://www.waterfalls.hamilton.ca/WaterfallMaps/Waterfalls_MainMap_GeoPDF.pdf) de [waterfalls.hamilton.ca](http://www.waterfalls.hamilton.ca/default.asp?id=2).
+
+
 ### Boire & Manger
 Hamilton est reconnue pour sa gastronomie! Vous pouvez explorer les offres locales via des sites Web tels que [Inlet](http://theinletonline.com/) et [Tourism Hamilton](https://tourismhamilton.com/eat).

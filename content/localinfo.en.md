@@ -34,5 +34,8 @@ Those travelling by transit can find further information at [sustainability.mcma
 **Trails**  
 Hamilton is home to a variety of urban and rural cycling and recreational trails. Visit [Nature at McMaster](https://nature.mcmaster.ca/) or the City of Hamilton's [Cycling Routes & Maps page](https://www.hamilton.ca/streets-transportation/biking-cyclists/cycling-routes-maps) for more information.
 
+**Waterfalls**  
+Built around and atop the Niagara Escarpment, Hamilton is known as the city of Waterfalls. Find more information from [Tourism Hamilton](https://tourismhamilton.com/hamilton-waterfalls), or see the full [Cascades and waterfalls of Hamilton map](http://www.waterfalls.hamilton.ca/WaterfallMaps/Waterfalls_MainMap_GeoPDF.pdf) from [waterfalls.hamilton.ca](http://www.waterfalls.hamilton.ca/default.asp?id=2).
+
 ### Food & Drink
 Hamilton is home to a thriving food scene. You can explore the local offerings through websites such as the [Inlet](http://theinletonline.com/) and [Tourism Hamilton](https://tourismhamilton.com/eat).
