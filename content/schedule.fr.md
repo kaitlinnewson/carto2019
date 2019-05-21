@@ -99,13 +99,13 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="../speakers#Orlandini">Rosa Orlandini</a>, York University</td>
-			<td><a href="../abstracts#Orlandini">Indigenous Collections in Map Libraries</a></td>
+			<td><a href="../speakers#McFall">Roddy McFall</a>, Library and Archives Canada</td>
+			<td><a href="../abstracts#McFall">Memory studies and the Canada Land Survey Records: Telling untold stories</a></td>
 		</tr>
 		<tr>
 			<td></td>
-			<td><a href="../speakers#McFall">Roddy McFall</a>, Library and Archives Canada</td>
-			<td><a href="../abstracts#McFall">Memory studies and the Canada Land Survey Records: Telling untold stories</a></td>
+			<td><a href="../speakers#Orlandini">Rosa Orlandini</a>, York University</td>
+			<td><a href="../abstracts#Orlandini">Truth and Reconciliation in Maps: Geolocating Residential Schools in Canada</a></td>
 		</tr>
 		<tr>
 			<td></td>
