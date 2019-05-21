@@ -14,15 +14,7 @@ Early-bird registration ends Friday, **31-May, 2019**
 If you require childcare while you attend the conference, we can assist with connecting you with options for care in a childcare centre or with a temporary nanny. Contact [Jay Brodeur](mailto:brodeujj@mcmaster.ca) for more information.
 
 ### Registration Payment 
-Payment via credit card is currently unavailable. Please select 'cheque' as your 'Method of Payment' to complete the registration and lock-in the early bird rate.
-
-We will send another note when credit card payment is restored.
- 
-Alternate Payment options:
- 
-1. E-transfer to the ACMLA Treasurer: djakubek@ryerson.ca
-2. Deliver cheque in person at the conference registration desk 
-3. Re-register and pay by credit card when the credit card payment has been restored
+Payment via credit card has been restored. Please select the most appropriate payment option. 
 
 
 ---
