@@ -14,14 +14,7 @@ Le tarif préférentiel pour l'inscription hâtive se termine le **31 Mai 2019**
 Les services de garde d’enfants sont offerts par une garderie ou une nounou temporaire. Contactez Jay Brodeur pour plus d’informations.
 
 ### Paiement de l'inscription
-Le paiement par carte de crédit est momentanément indisponible. Veuillez sélectionner «chèque» comme «méthode de paiement» pour compléter l’enregistrement et conserver le tarif hâtive.
-Nous vous enverrons un autre email lorsque le paiement par carte de crédit sera rétabli.
- 
-Options de paiement alternatives:
-
-1. Virement électronique à la trésorière de l'ACMLA: djakubek@ryerson.ca
-2. Remettez l’enregistrement en personne au bureau des inscriptions à la conférence
-3. Ré-enregistrer et payer par carte de crédit lorsque le paiement par carte de crédit a été rétabli
+Le paiement par carte de crédit a été restauré. Veuillez sélectionner l'option de paiement la plus appropriée.
 
 
 ---
