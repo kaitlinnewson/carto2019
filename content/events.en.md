@@ -17,7 +17,7 @@ layout = "single-para"
 |Ice Breaker|Tuesday, 11-June|1800 (approx.)|[The Phoenix CraftHouse & Grill, McMaster University](https://www.phoenixmcmaster.com/)|
 |Conference, Day 1 - Opening|Wednesday, 12-June|0830-1030|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |Conference, Day 1 - Sessions|Wednesday, 12-June|1045-1630|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
-|Conference, Day 1|Wednesday, 12-June|1800-2100|Waterfall Tour|
+|[Waterfall Tour](#waterfall-tour)|Wednesday, 12-June|1800-2100|Waterfall Tour|
 |Conference, Day 2|Thursday, 13-June|0830-1630|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
 |ACMLA AGM|Thursday, 13-June|1200-1400|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
 |[Banquet](#Banquet)|Thursday, 13-June|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
