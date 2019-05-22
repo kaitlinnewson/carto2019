@@ -143,6 +143,10 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 			<td>1655</td>
 			<td colspan="2"><strong>Day 1 Wrap-up</strong></td>
 		</tr>
+		<tr>
+			<td>1800-2100</td>
+			<td colspan="2"><a href="../events#waterfall-tour">Waterfall Tour</a></td>
+		</tr>
 	</tbody>
 </table>
 
@@ -295,7 +299,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1300-1700</td>
-			<td colspan="2"><a href="../events#field-trip">Field trip to Warplane Heritage Museum & waterfall tour</a></td>
+			<td colspan="2"><a href="../events#field-trip">Field trip to Warplane Heritage Museum & McMaster Forest tour</a></td>
 		</tr>
 	</tbody>
 </table>
