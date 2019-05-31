@@ -83,6 +83,11 @@ Roddy McFall is a Senior Archivist at Library and Archives with responsibility f
 Bryan McPherson (MLA, B.Sc.) has over 20 years landscape assessment & visualization experience on parkland projects, working with Indigenous communities, and on infrastructure & aviation projects. Bryan’s work on land use valuation aided in the expansion of parks & protected areas throughout Ontario. His West Coast work has included land appraisals, flood mapping, being an expert witness at appeal tribunals, and acting as a land use mapping professional for Indigenous communities. He is a graduate from a Masters of Landscape Architecture program (University of Guelph). Bryan is a researcher with the Six Nations of the Grand River and the University of Waterloo – where he works on historic surveys, pre-settlement land class visualization, and on 3D laser cut topographic maps.
 
 ---
+### <a name="Monture"></a>Phil Monture
+Phil Monture is Mohawk from the Six Nations of the Grand River. From 1975 to July 2002, he was the Director of the Land Claims Research Office at the Six Nations of the Grand River. Phil developed a long-term research program and supervised the research for the Six Nations of the Grand River as it relates to lands which are no longer used for their benefit or legal surrender obtained under prevailing legislation. He was the principal architect of the ongoing 1995 litigation against Canada and Ontario for an accounting of all Six Nations Lands, resources and assets supposedly held and managed on Six Nations behalf by the Crown(s).
+Over the years, Phil has facilitated various workshops in relation to items such as Land Claims, assisted in policy review and community planning. He was also a member of the Planning Team for the National Land Claims Research Conferences and Summits. Phil brings many years of experience related to land rights and constantly challenges Canada’s extinguishment of Indigenous Rights policies.
+
+---
 ### <a name="Nicholson"></a>Andrew Nicholson
 Andrew Nicholson is the GIS & Research Data Services Coordindator at the UofT Mississauga Library.
 
