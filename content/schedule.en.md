@@ -44,9 +44,9 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 			<td>Tour of McMaster University Library Preservation Lab</td>
 		</tr>
 		<tr>
-			<td>1330-1630</td>
-			<td>
-			<td><a href="../abstracts#workshop2">Workshop: TBD</a></td>
+			<td>1330-1600</td>
+			<td><a href="../speakers#Brodeur">Jason Brodeur</a>, McMaster University,
+			<td><a href="../abstracts#workshop1">Hackfest</a></td>
 		</tr>
 		<tr>
 			<td>1800</td>
