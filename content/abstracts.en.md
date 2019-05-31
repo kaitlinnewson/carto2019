@@ -56,7 +56,9 @@ Session attendees will have an opportunity to discuss their own experiences deco
 #### <a name="Monture"></a>Afternoon Keynote Address: A global solution for the Six Nations of the Grand River
 [Phil Monture](../speakers#Monture), Nativelands Ltd., [Bryan McPherson](../speakers#McPherson), Land Active
 
-Phil & Bryan will introduce current research efforts between Six Nations and the University of Waterloo, where they are currently researching historic survey archives, pre-settlement vegetation mapping, and 3D physical models - including laser cut topographic maps.
+Phil Monture is Mohawk from the Six Nations of the Grand River. Phil will talk about the history of Six Nations lands and the Haldimand Treaty of 1784. The Haldimand Treaty covers lands for six miles on each side of the Grand River from Lake Erie to its source. Phil has been researching this history for 40 years and will provide a historical account of the land transactions within the Treaty lands. For 27 years Phil acted as Director of the Land Claims Office at the Six Nations of the Grand River, and in 2002 he established the company "Nativelands Ltd" to evaluate and develop Land Tenure and Land Rights for Indigenous communities.
+
+Bryan McPherson, an academic researcher with the University of Waterloo, will introduce landscape visualization efforts with Six Nations - including historic survey archives, pre-settlement vegetation mapping, LIDAR and laser cut topographic maps.
 
 ---
 #### <a name="Sunstrum"></a>***Roundtable discussion:*** Don't Stereotype Me: Putting Prejudice on the Map
