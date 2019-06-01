@@ -15,13 +15,12 @@ layout = "single-para"
 |------|-------|-------|-------|
 |Pre-Conference Workshops|Tuesday, 11-June|0900-1630|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library |
 |Ice Breaker|Tuesday, 11-June|1800 (approx.)|[The Phoenix CraftHouse & Grill, McMaster University](https://www.phoenixmcmaster.com/)|
-|Conference, Day 1 - Opening|Wednesday, 12-June|0830-1030|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
-|Conference, Day 1 - Sessions|Wednesday, 12-June|1045-1630|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
+|Conference, Day 1|Wednesday, 12-June|0830-1030|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Waterfall Tour](#waterfall-tour)|Wednesday, 12-June|1800-2100|Waterfall Tour|
-|Conference, Day 2|Thursday, 13-June|0830-1630|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
-|ACMLA AGM|Thursday, 13-June|1200-1400|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
+|Conference, Day 2|Thursday, 13-June|0830-1630|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
+|ACMLA AGM|Thursday, 13-June|1200-1400|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Banquet](#Banquet)|Thursday, 13-June|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
-|Conference, Day 3|Friday, 14-June|0930-1200|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library|
+|Conference, Day 3|Friday, 14-June|0930-1200|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Field Trip](#field-trip)|Friday, 14-June|1300-1700 (approx.)|Private tour of [Canadian Warplane Heritage Museum](https://www.warplane.com/) & McMaster Forest tour Cost: $20, including all transportation (but not lunch!).|
 
 ### <a name="Banquet"></a>Banquet
