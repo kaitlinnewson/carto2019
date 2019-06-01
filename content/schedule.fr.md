@@ -91,7 +91,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 			<td>Morning Break</td>
 		</tr>
 		<tr>
-			<td colspan="3"><strong>Day 1 Sessions: MDCL 1110</strong></td>
+			<td colspan="3"><strong>Day 1 Sessions: Sherman Centre for Digital Scholarship, Mills Memorial Library</strong></td>
 		</tr>
 		<tr>
 			<td>1045</td>
@@ -161,7 +161,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 	</thead>
 	<tbody>
 		<tr>
-			<td colspan="3"><strong>Day 2 Sessions: MDCL 1110</strong></td>
+			<td colspan="3"><strong>Day 2 Sessions: Sherman Centre for Digital Scholarship, Mills Memorial Library</strong></td>
 		</tr>
 		<tr>
 			<td>0830-0900</td>
