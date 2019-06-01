@@ -15,13 +15,12 @@ layout = "single-para"
 |------|-------|-------|-------|
 |Ateliers|Mardi, 11 juin|0900-1630|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library |
 |Activité brise-glace|Mardi, 11 juin|1800 (approx.)|[The Phoenix CraftHouse & Grill, McMaster University](https://www.phoenixmcmaster.com/)|
-|Conférence, première journée - ouverture|Mercredi 12 juin|0830-1030|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
-|Conférence, première journée|Mercredi 12 juin|1045-1630|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
+|Conférence, première journée|Mercredi 12 juin|0830-1030|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Visite des cascades](#waterfall-tour)|Mercredi 12 juin|1800-2100|Visite des cascades|
-|Conférence, deuxième journée|Jeudi 13 juin|0830-1630|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
-|ACMLA AGM|Jeudi 13 juin|1200-1400|[MDCL 1110](https://goo.gl/maps/5gCfojEqTrF2)|
+|Conférence, deuxième journée|Jeudi 13 juin|0830-1630|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
+|ACMLA AGM|Jeudi 13 juin|1200-1400|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Banquet](#Banquet)|Jeudi 13 juin|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
-|Conférence, troisième journée|Vendredi 14 juin|0930-1200|[Sherman Centre for Digital Scholarship](https://scds.ca/), Mills Memorial Library|
+|Conférence, troisième journée|Vendredi 14 juin|0930-1200|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Field Trip](#field-trip)|Vendredi 14 juin|1300-1700 (approx.)|Visite privée du [Canadian Warplane Heritage Museum](https://www.warplane.com/) & et visite aux chutes d'eau de Hamilton. 20$, transport compris (mais pas le dîner!).|
 
 ### <a name="Banquet"></a>Banquet
