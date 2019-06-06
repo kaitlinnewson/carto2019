@@ -13,14 +13,9 @@ layout = "single-para"
 
 ### Tuesday, 11-June
 #### <a name="workshop1"></a>Hackfest
-[Jay Brodeur](../speakers#Brodeur), McMaster University
+[Jay Brodeur](../speakers#Brodeur) & [Christine Homuth](../speakers#Homuth), McMaster University
 
-Is there a project or piece of software that you would like to explore with a group of equally interested collaborators? Are you interested in learning about or sharing new approaches and ideas? Are you just looking for some excellent company on a Tuesday morning? If you've answered 'yes' to any of these questions, join us Tuesday morning for a GIS / Maps / Geospatial data hackfest. Ideas will be solicited and shared before the conference; during the session, participants will sign up to participate in a project of their choice. Results will be presented to all participants at the conclusion of the session.
-
----
-#### <a name="workshop2"></a>Afternoon Workshop.
-
-Details coming soon.
+Is there a project or piece of software that you would like to explore with a group of equally interested collaborators? Are you interested in learning about or sharing new approaches and ideas? Are you just looking for some excellent company on a Tuesday morning? If you've answered 'yes' to any of these questions, join us Tuesday morning for a GIS / Maps / Geospatial data hackfest. Ideas will be solicited and shared before the conference; during the session, participants will [sign up](https://docs.google.com/spreadsheets/d/1fonaow4g2PAFjljzS2UfDGeYekO5fOsluPQAtKZOMgs/edit#gid=0) to participate in a project of their choice. Results will be presented to all participants at the conclusion of the session.
 
 ---
 ### Wednesday, 12-June
