@@ -19,7 +19,7 @@ layout = "single-para"
 |[Waterfall Tour](#waterfall-tour)|Wednesday, 12-June|1800-2100|Waterfall Tour|
 |Conference, Day 2|Thursday, 13-June|0830-1630|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |ACMLA AGM|Thursday, 13-June|1200-1400|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
-|[Banquet](#Banquet)|Thursday, 13-June|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
+|[Banquet](#Banquet)|Thursday, 13-June|1800-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
 |Conference, Day 3|Friday, 14-June|0930-1200|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Field Trip](#field-trip)|Friday, 14-June|1300-1700 (approx.)|Private tour of [Canadian Warplane Heritage Museum](https://www.warplane.com/) & McMaster Forest tour Cost: $20, including all transportation (but not lunch!).|
 
@@ -27,8 +27,8 @@ layout = "single-para"
 The banquet will take place at the historic [Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy). Those wishing to visit [Tiffany Falls](https://tourismhamilton.com/hamilton-waterfalls/tiffany-falls) before the event can exit Bus #5 at the 1039 Wilson stop.
 
 #### Banquet schedule
-**1830-1900:** Cocktails
-**1900–2300:** Banquet
+**1880-1900:** Cocktails
+**1900–2230:** Banquet
 
 #### Public transit routes and schedules
 - [From McMaster](https://goo.gl/yMfbG6); | [Return trip](https://goo.gl/hb8Umy)
