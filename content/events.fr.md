@@ -19,7 +19,7 @@ layout = "single-para"
 |[Visite des cascades](#waterfall-tour)|Mercredi 12 juin|1800-2100|Visite des cascades|
 |Conférence, deuxième journée|Jeudi 13 juin|0830-1630|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |ACMLA AGM|Jeudi 13 juin|1200-1400|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
-|[Banquet](#Banquet)|Jeudi 13 juin|1900-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
+|[Banquet](#Banquet)|Jeudi 13 juin|1800-2230 (approx.)|[Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy)|
 |Conférence, troisième journée|Vendredi 14 juin|0930-1200|[Sherman Centre for Digital Scholarship, Mills Memorial Library](https://goo.gl/maps/GxozpNKJKow)|
 |[Field Trip](#field-trip)|Vendredi 14 juin|1300-1700 (approx.)|Visite privée du [Canadian Warplane Heritage Museum](https://www.warplane.com/) & et visite aux chutes d'eau de Hamilton. 20$, transport compris (mais pas le dîner!).|
 
@@ -27,8 +27,8 @@ layout = "single-para"
 Le banquet de la conférence aura lieu au restaurant [Ancaster Mill](https://goo.gl/maps/jLZvRUAbPxy). Ceux qui souhaitent visiter les [chutes Tiffany](https://tourismhamilton.com/hamilton-waterfalls/tiffany-falls) avant l’événement peuvent prendre le bus 5 à l’arrêt 1039 Wilson.
 
 #### Détails du calendrier
-**1830-1900:** Cocktails  
-**1900–2300:** Banquet  
+**1800-1900:** Cocktails  
+**1900–2230:** Banquet  
 
 #### Itinéraires et horaires de transport en commun
 - [de McMaster](https://goo.gl/yMfbG6); | [voyage de retour](https://goo.gl/hb8Umy)
