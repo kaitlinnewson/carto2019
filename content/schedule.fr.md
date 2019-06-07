@@ -35,7 +35,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>0900-1130</td>
-			<td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp , <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
+			<td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
 			<td><a href="../abstracts#workshop1">Hackfest</a></td>
 		</tr>
 		<tr>
@@ -45,7 +45,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1330-1600</td>
-			<td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp , <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
+			<td><a href="../speakers#Brodeur">Jason Brodeur</a> &amp <a href="../speakers#Homuth">Christine Homuth</a>, McMaster University</td>
 			<td><a href="../abstracts#workshop1">Hackfest</a></td>
 		</tr>
 		<tr>
