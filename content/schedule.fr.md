@@ -120,7 +120,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		<tr>
 			<td>1330</td>
 			<td><a href="../speakers#Monture">Phil Monture</a>, Nativelands Ltd. & <a href="../speakers#McPherson">Bryan McPherson</a>, Land Active</td>
-			<td><a href="../abstracts#Monture">Afternoon Keynote: *Title Coming Soon.*</a></td>
+			<td><a href="../abstracts#Monture">Afternoon Keynote: A global solution for the Six Nations of the Grand River</a></td>
 		</tr>
 		<tr>
 			<td>1445</td>
@@ -129,18 +129,14 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1500</td>
-			<td colspan="2"><strong>Roundtable Discussion</strong></td>
+			<td colspan="2"><strong>Breakout Session</strong></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td><a href="../speakers#Sunstrum">Sherri Sunstrum</a>, Carleton University</td>
 			<td><a href="../abstracts#Sunstrum">Don't Stereotype Me: Putting Prejudice on the Map</a></td>
 		</tr>
-			<td>1545</td>
-			<td colspan="2"><strong>Breakout Session</strong></td>
-		</tr>
-		</tr>
-			<td>1655</td>
+			<td>1615</td>
 			<td colspan="2"><strong>Day 1 Wrap-up</strong></td>
 		</tr>
 		<tr>
