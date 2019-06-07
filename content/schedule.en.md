@@ -95,7 +95,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1045</td>
-			<td colspan="2"><strong>Presentation Session 1</strong></td>
+			<td colspan="2"><strong>Presentation Session 1</strong> (Session Chair: Amber Leahey)</td>
 		</tr>
 		<tr>
 			<td></td>
@@ -166,7 +166,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>0900</td>
-			<td colspan="2"><strong>Presentation Session 2</strong></td>
+			<td colspan="2"><strong>Presentation Session 2</strong> (Session Chair: Gord Beck)</td>
 		</tr>
 		<tr>
 			<td></td>
@@ -190,7 +190,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1040</td>
-			<td colspan="2"><strong>Presentation Session 3</strong></td>
+			<td colspan="2"><strong>Presentation Session 3</strong> (Session Chair: Kara Handren)</td>
 		</tr>
 		<tr>
 			<td></td>
@@ -213,7 +213,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1400</td>
-			<td colspan="2"><strong>Presentation Session 4</strong></td>
+			<td colspan="2"><strong>Presentation Session 4</strong> (Session Chair: Marcel Fortin)</td>
 		</tr>
 		<tr>
 			<td></td>
@@ -277,7 +277,7 @@ Location: Sherman Centre for Digital Scholarship, Mills Memorial Library
 		</tr>
 		<tr>
 			<td>1045</td>
-			<td colspan="2"><strong>Presentation Session 5</strong></td>
+			<td colspan="2"><strong>Presentation Session 5</strong> (Session Chair: Marilyn Andrews)</td>
 		</tr>
 		<tr>
 			<td></td>
